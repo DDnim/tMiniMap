@@ -1,0 +1,6 @@
+## Interface: 50400
+## Author: BN_ASIA Tushu#3421
+## Notes: Minimap Art & Control
+## Version: v1.1
+
+miniMap.lua
