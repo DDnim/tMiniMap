@@ -3,7 +3,7 @@ local function StyleMap()
 	local TIMER_FONT_SIZE = 30 
 	
 	local Minimap = Minimap
-
+	test
 	-------Minimap
 
 	Minimap:EnableMouse(true)
